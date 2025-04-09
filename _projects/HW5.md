@@ -5,15 +5,15 @@ title: Homework 6
 
 # Altair Visualizations
 [The Data](https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/building_inventory.csv)
-[The Analysis](https://github.com/alexdkim/alexdkim.github.io/blob/main/python_notebooks/Workbook.ipynb)
+[The Analysis](https://github.com/alexdkim/alexdkim.github.io/blob/master/python_notebooks/Workbook.ipynb)
 
 ### Plot 1
 This chart displays the number of buildings constructed each year in the Illinois building inventory 
 dataset. This visualization shows the distribution of state buildings in Illinois by their year of 
 construction. The x-axis is the year of construction (parsed from the "Year Constructed" column), and 
 the y-axis represents the number of buildings. The main goal of the visualization is to explore and 
-observe patterns over time, such as burst of construction activitity and slow development in state 
-buildings and infastructures. I applied a color encoding using the Bldg Status field 
+observe patterns over time, such as burst of construction activity and slow development in state 
+buildings and infrastructures. I applied a color encoding using the Bldg Status field 
 (e.g., "In Use", "In Progress") to differentiate building statuses over time. This helps distinguish 
 between older buildings that are still in use versus those that are being developed or decommissioned. 
 I chose this color map to clearly contrast between statuses without overwhelming the viewer. I chose this 
